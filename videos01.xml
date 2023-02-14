@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+    <video videoId="1" name="01.C语言-语法预览" length="320" videoURL="/itcast/videos/01.C语言-语法预览.mp4" imageURL="/itcast/images/head1.png" desc="C语言-语法预览" teacher="老王" />
+    <video videoId="2" name="02.C语言-第一个C程序" length="2708" videoURL="/itcast/videos/02.C语言-第一个C程序.mp4" imageURL="/itcast/images/head2.png" desc="C语言-第一个C程序" teacher="老王" />
+    <video videoId="3" name="03.C语言-函数" length="822" videoURL="/itcast/videos/03.C语言-函数.mp4" imageURL="/itcast/images/head3.png" desc="C语言-函数" teacher="老王" />
+    <video videoId="4" name="04.C语言-基本数据类型" length="1113" videoURL="/itcast/videos/04.C语言-基本数据类型.mp4" imageURL="/itcast/images/head4.png" desc="C语言-基本数据类型" teacher="老王" />
+    <video videoId="5" name="05.C语言-基本运算" length="594" videoURL="/itcast/videos/05.C语言-基本运算.mp4" imageURL="/itcast/images/head5.png" desc="C语言-基本运算" teacher="老王" />
+    <video videoId="6" name="06.C语言-数组" length="923" videoURL="/itcast/videos/06.C语言-数组.mp4" imageURL="/itcast/images/head6.png" desc="C语言-数组" teacher="老王" />
+    <video videoId="7" name="07.C语言-字符串" length="848" videoURL="/itcast/videos/07.C语言-字符串.mp4" imageURL="/itcast/images/head7.png" desc="C语言-字符串" teacher="老王" />
+    <video videoId="8" name="08.C语言-指针" length="502" videoURL="/itcast/videos/08.C语言-指针.mp4" imageURL="/itcast/images/head8.png" desc="C语言-指针" teacher="老王" />
+    <video videoId="9" name="09.C语言-指针用例" length="558" videoURL="/itcast/videos/09.C语言-指针用例.mp4" imageURL="/itcast/images/head9.png" desc="C语言-指针用例" teacher="老王" />
+    <video videoId="10" name="10.C语言-指针与数组" length="1682" videoURL="/itcast/videos/10.C语言-指针与数组.mp4" imageURL="/itcast/images/head10.png" desc="C语言-指针与数组" teacher="老王" />
+</videos>
